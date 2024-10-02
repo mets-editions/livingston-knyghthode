@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Livingston-Knyghthode-18-Bataile-Part4-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Part IV: Urban and Naval Warfare</title><author>Smith, Trevor Russell</author><author>Livingston, Michael</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Bowen, Mead</persName><resp from="2019-06" to="2019-08">Ensured adherence to METS Style Guide</resp><resp from="2019-06" to="2019-08">Entered corrections for print edition</resp><resp from="2019-06" to="2019-08">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2020-03" to="2020-03">Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp from="2022-02" to="2023-04">Entered corrections for digital edition</resp><resp from="2020-03" to="2023-04">Entered corrections for print edition</resp><resp from="2020-03" to="2020-03">Formatted for print edition</resp><resp from="2020-03" to="2020-03">Formatted for XML export</resp><resp>Updated TEI encoding</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp>Audited documents prior to print/export</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-06" to="2023-08">Entered corrections for digital edition</resp><resp from="2022-06" to="2023-08">Entered corrections for print edition</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2020-03" to="2020-03">Copyedited and proofread</resp><resp from="2020-03" to="2020-03">Ensured adherence to METS Style Guide</resp><resp from="2020-03" to="2020-03">Reviewed edition for consistency and audience</resp><resp from="2020-03" to="2020-03">Reviewed edition for content and scholarship</resp><resp from="2020-03" to="2020-03">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2023-11" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2020-03" to="2020-04">Copyedited and proofread</resp><resp from="2020-03" to="2020-04">Ensured adherence to METS Style Guide</resp><resp from="2020-03" to="2020-04">Reviewed edition for consistency and audience</resp><resp from="2020-03" to="2020-04">Reviewed edition for content and scholarship</resp><resp from="2020-03" to="2020-04">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2023-09" to="2024-01">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2023-06" to="2023-06">Ensured adherence to METS Style Guide</resp><resp from="2023-06" to="2023-06">Entered corrections for digital edition</resp><resp from="2023-06" to="2023-06">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2020-06" to="2020-08">Audited documents prior to print/export</resp><resp from="2020-06" to="2020-08">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2020-06" to="2020-08">Copyedited and proofread</resp><resp from="2020-06" to="2020-08">Ensured adherence to METS Style Guide</resp><resp from="2020-06" to="2020-08">Reviewed edition for consistency and audience</resp><resp from="2020-06" to="2020-08">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mario Bisciotti</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Caleb Prus</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt><respStmt><persName>Alexander J. Zawacki</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><editor>Smith, Trevor Russell</editor><editor>Livingston, Michael</editor><title>Of Knyghthode and Bataile</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2021</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/livingston-knyghthode/blob/main/livingston-knyghthode-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Livingston-Knyghthode-18-Bataile-Part4-Tnotes"/><div type="text">
+ <note type="tnote" n="1">Before 2224<space rend="indent1"/><hi rend="italic">Ultima pars . . . ornat opus</hi>. Latin omitted in C, A, R.</note>
+ <note type="tnote" n="2">2226<space rend="indent1"/><hi rend="italic">morthereer</hi>. So MS. C: <hi rend="italic">morthe</hi><hi rend="italicstrikethrough">l</hi><hi rend="italic">reer</hi>. R: <hi rend="italic">murtherer</hi>.</note>
+ <note type="tnote" n="3">2235<space rend="indent1"/><hi rend="italic">noone</hi>. So MS, C. R: <hi rend="italicstrikethrough">o</hi><hi rend="italic"> noone</hi>.</note>
+ <note type="tnote" n="4">2241<space rend="indent1"/><hi rend="italic">it</hi>. So MS, R. C: inserted above the line.</note>
+ <note type="tnote" n="5">2244<space rend="indent1"/><hi rend="italic">assege</hi>. So MS. C: <hi rend="italicstrikethrough">assege</hi><hi rend="italic"> assege</hi>. R: <hi rend="italic">asege</hi>.</note>
+ <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">see</hi>. So MS. C: <hi rend="italic">se</hi>. R: <hi rend="italic">so</hi>.</note>
+ <note type="tnote" n="7">2249<space rend="indent1"/><hi rend="italic">shal be</hi>. So MS, C. R omits.</note>
+ <note type="tnote" n="8">2250<space rend="indent1"/><hi rend="italic">cragge</hi>. So MS, C. R: <hi rend="italic">oragge</hi>.</note>
+ <note type="tnote" n="9">2255<space rend="indent1"/><hi rend="italic">lengthe</hi>. So C. MS: <hi rend="italic">lenghe</hi>, followed by D&amp;A. R: <hi rend="italic">lynghe</hi>.</note>
+ <note type="tnote" n="10">2262<space rend="indent1"/><hi rend="italic">or</hi>. So C, R, D&amp;A. MS: <hi rend="italic">or or </hi>(uncancelled dittography).</note>
+ <note type="tnote" n="11">2265<space rend="indent1"/><hi rend="italic">kest</hi>. So MS, C. R: <hi rend="italicstrikethrough">kest</hi> with <hi rend="italic">kest</hi> inserted above the line.</note>
+ <note type="tnote" n="12">2267<space rend="indent1"/><hi rend="italic">an</hi>. So MS. C: <hi rend="italic">and in</hi>. R omits.</note>
+ <note type="tnote" n="13">2274<space rend="indent1"/><hi rend="italic">as</hi>. So MS, C. R omits.</note>
+ <note type="tnote" n="14">2275<space rend="indent1"/><hi rend="italic">Me</hi>. So MS, C. R: <hi rend="italic">We</hi>.</note>
+ <note type="tnote" n="15">2277<space rend="indent1"/><hi rend="italic">ram</hi>. So MS, C. R: <hi rend="italic">rayne</hi>.</note>
+ <note type="tnote" n="16">2278<space rend="indent1"/><hi rend="italic">cruste</hi>. So MS, C. R: <hi rend="italic">couste</hi>.</note>
+ <note type="tnote" n="17">2286<space rend="indent1"/><hi rend="italic">sle</hi>. So MS. C: <hi rend="italic">sle</hi> corrected from <hi rend="italic">fle</hi>. R: <hi rend="italic">fle</hi>.</note>
+ <note type="tnote" n="18">2291<space rend="indent1"/><hi rend="italic">rathest</hi>. So MS, C. R: <hi rend="italic">right</hi>.</note>
+ <note type="tnote" n="19">2297<space rend="indent1"/><hi rend="italic">cratys</hi>. So MS. C: <hi rend="italicstrikethrough">cratis</hi> with <hi rend="italic">rackys</hi> inserted above the line. R: <hi rend="italic">rackys</hi>.</note>
+ <note type="tnote" n="20">2299<space rend="indent1"/><hi rend="italic">crate</hi>. So MS. C: <hi rend="italicstrikethrough">crate</hi> with <hi rend="italic">racke</hi> inserted above the line. R: <hi rend="italic">racke</hi>.</note>
+ <note type="tnote" n="21">1363–2300<space rend="indent1"/><hi rend="italic">In a maner . . . and mon</hi>. Omitted in A (lost leaves). </note>
+ <note type="tnote" n="22">2306<space rend="indent1"/><hi rend="italic">within</hi>. So MS. C, A: <hi rend="italic">in with</hi>. R: <hi rend="italic">withinne</hi>.</note>
+ <note type="tnote" n="23">2312<space rend="indent1"/><hi rend="italic">that</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="24">2313<space rend="indent1"/><hi rend="italic">vitaile</hi>. So MS, C. A: <hi rend="italic">vittaile</hi>. R: <hi rend="italicstrikethrough">ve</hi>(?) <hi rend="italic">victaile</hi>.</note>
+ <note type="tnote" n="25">2317<space rend="indent1"/><hi rend="italic">that</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="26">2322<space rend="indent1"/><hi rend="italic">the</hi>. So MS, C, A. R omits. </note>
+ <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">saddest</hi>. So MS, R. C: <hi rend="italic">sadde</hi>. A: <hi rend="italic">saddest</hi> (<hi rend="italic">st</hi> inserted in line).</note>
+ <note type="tnote" n="28">2325<space rend="indent1"/><hi rend="italic">hegh</hi>. So MS. C: <hi rend="italic">hegth</hi>. A: <hi rend="italic">heght</hi>. R: <hi rend="italic">hiegst</hi>.</note>
+ <note type="tnote" n="29">Before 2329<space rend="indent1"/>MS: <hi rend="italic">And yf theire be any yon</hi> written in top margin below running title.</note>
+ <note type="tnote" n="30">2329<space rend="indent1"/><hi rend="italic">is</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="31">2331<space rend="indent1"/><hi rend="italic">engyne</hi><hi rend="subscript">2</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="32">2333<space rend="indent1"/><hi rend="italic">over</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">of</hi><hi rend="italic"> on</hi>.</note>
+ <note type="tnote" n="33">2353<space rend="indent1"/><hi rend="italic">make</hi>. So MS, C, A. R: <hi rend="italic">make make</hi> (uncancelled dittography).</note>
+ <note type="tnote" n="34">2359<space rend="indent1"/><hi rend="italic">litil</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="35">2360<space rend="indent1"/><hi rend="italic">fette</hi>. So MS, C. A: <hi rend="italic">sette</hi>. R: <hi rend="italic">sett</hi>.</note>
+ <note type="tnote" n="36">2363<space rend="indent1"/><hi rend="italic">doubte</hi>. So MS. C, A: <hi rend="italic">doute</hi>. R omits.</note>
+ <note type="tnote" n="37">2366<space rend="indent1"/><hi rend="italic">citee nys</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">cite nes</hi><hi rend="italic"> cite nys</hi>.</note>
+ <note type="tnote" n="38">2370<space rend="indent1"/><hi rend="italic">forth</hi>. So MS, C. A: <hi rend="italic">furth</hi>. R omits.</note>
+ <note type="tnote" n="39">2375<space rend="indent1"/><hi rend="italic">eke</hi>. So MS, A. C: <hi rend="italic">ek</hi>. R omits.</note>
+ <note type="tnote" n="40">2376<space rend="indent1"/><hi rend="italic">Lo alle these wil this citee assaile</hi>. MS: <hi rend="italic">alle</hi> written over an erasure. C: <hi rend="italic">Lo </hi><hi rend="italicstrikethrough">al these wil</hi><hi rend="italic"> this citee wil alle these assaile</hi> (<hi rend="italic">wil alle these</hi> inserted above the line). A: <hi rend="italic">Lo this citee wil all these assaile</hi>. R:<hi rend="italic"> To this cite will all thes assaille</hi>.</note>
+ <note type="tnote" n="41">2379<space rend="indent1"/><hi rend="italic">shelled snail</hi>. So MS. C, A: <hi rend="italic">snayle shelled</hi>. R: <hi rend="italic">snaile shelled</hi>.</note>
+ <note type="tnote" n="42">2380<space rend="indent1"/><hi rend="italic">it</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="43">2381<space rend="indent1"/><hi rend="italic">hornys</hi>. So MS, C, A. R: <hi rend="italic">the hornys</hi>.</note>
+ <note type="tnote" n="44">2384<space rend="indent1"/><hi rend="italic">their</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="45">2388<space rend="indent1"/><hi rend="italic">theron fier</hi>. So MS. C: <hi rend="italic">fyer theron</hi>. A, R:<hi rend="italic"> fier theron</hi>.</note>
+ <note type="tnote" n="46">2391<space rend="indent1"/><hi rend="italic">iron-steeled stronge.</hi> So MS, C. A: <hi rend="italic">yron-steeled </hi><hi rend="italicstrikethrough">stor</hi><hi rend="italic"> stronge</hi>. R: <hi rend="italic">irone-steled stronge</hi>.</note>
+ <note type="tnote" n="47">2396<space rend="indent1"/><hi rend="italic">have</hi>. So MS, C, A. R: <hi rend="italic">be</hi>.</note>
+ <note type="tnote" n="48"><space rend="indent1"/><hi rend="italic">it hooke</hi>. So MS. C: <hi rend="italic">it hooke</hi> (<hi rend="italic">o</hi><hi rend="subscript">2</hi> inserted above the line). A, R: <hi rend="italic">if it hooke</hi>.</note>
+ <note type="tnote" n="49">2399<space rend="indent1"/><hi rend="italic">and</hi><hi rend="subscript">2</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="50">2401<space rend="indent1"/><hi rend="italic">rush</hi>. So MS, A. C: <hi rend="italicstrikethrough">rush</hi><hi rend="italic"> rush</hi>. R: <hi rend="italic">rushe</hi>.</note>
+ <note type="tnote" n="51">2403<space rend="indent1"/><hi rend="italic">oon</hi>. MS, C, A, R, D&amp;A: <hi rend="italic">oo</hi>.</note>
+ <note type="tnote" n="52">2404<space rend="indent1"/><hi rend="italic">a trusse</hi>. So MS, C, A. R: <hi rend="italic">attonsse</hi>.</note>
+ <note type="tnote" n="53">2406<space rend="indent1"/><hi rend="italic">kecch it.</hi> So MS. C: <hi rend="italic">kecchith</hi>. A: <hi rend="italic">kecchith</hi> with <hi rend="italic">it</hi> inserted above the line. R: <hi rend="italic">kecchith it</hi>.</note>
+ <note type="tnote" n="54">2411<space rend="indent1"/><hi rend="italic">as</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="55">2417<space rend="indent1"/><hi rend="italic">of</hi><hi rend="subscript">1</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="56">2422<space rend="indent1"/><hi rend="italic">every</hi>. So MS, R. C: <hi rend="italic">hevy</hi>. A: <hi rend="italic">every</hi> (<hi rend="italic">h</hi> scraped from beginning and <hi rend="italic">er</hi> inserted above the line).</note>
+ <note type="tnote" n="57">2426<space rend="indent1"/><hi rend="italic">this</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="58">2432<space rend="indent1"/><hi rend="italic">covere</hi>. So MS. C, A: <hi rend="italic">overe</hi>. R: <hi rend="italic">over</hi>.</note>
+ <note type="tnote" n="59">2434<space rend="indent1"/><hi rend="italic">ynowe</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">an</hi><hi rend="italic"> inowe</hi>.</note>
+ <note type="tnote" n="60">2440<space rend="indent1"/><hi rend="italic">undir</hi>. So MS, C. A: <hi rend="italic">under</hi>. R: <hi rend="italicstrikethrough">other</hi><hi rend="italic"> undre</hi>.</note>
+ <note type="tnote" n="61">2445<space rend="indent1"/><hi rend="italic">III</hi>. So MS, C, A. R:<hi rend="italic"> </hi><hi rend="italicstrikethrough">to go</hi><hi rend="italic"> III</hi>.</note>
+ <note type="tnote" n="62"><space rend="indent1"/><hi rend="italic">thei thise demene</hi>. So D&amp;A. MS:<hi rend="italic"> . . . e</hi> partially legible only under UV light. C: <hi rend="italicstrikethrough">they</hi><hi rend="italic"> they this demene</hi>. A: <hi rend="italic">they this demene</hi>. R: <hi rend="italic">thay this demene</hi>.</note>
+ <note type="tnote" n="63">2455<hi rend="italic"><space rend="indent1"/>eke is good</hi><hi rend="italic">.</hi> So MS. C, A: <hi rend="italic">ek is good.</hi> R:<hi rend="italic"> is good eke</hi>.</note>
+ <note type="tnote" n="64">2456<space rend="indent1"/><hi rend="italic">eny</hi>. So D&amp;A. MS: written over an erasure. C: <hi rend="italic">al</hi>. A, R: <hi rend="italic">all</hi>.</note>
+ <note type="tnote" n="65">2459<space rend="indent1"/><hi rend="italic">hem</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="66">2470<space rend="indent1"/><hi rend="italic">in a doubte. </hi>So MS. C: <hi rend="italic">in a doute. </hi>R: <hi rend="italic">to devote</hi><hi rend="italic">.</hi></note>
+ <note type="tnote" n="67">2471<space rend="indent1"/><hi rend="italic">An</hi>. So MS, C, R. D&amp;A: <hi rend="italic">And</hi>.</note>
+ <note type="tnote" n="68">2479<space rend="indent1"/><hi rend="italic">in</hi>. So MS, C. R<hi rend="italic">: </hi><hi rend="italicstrikethrough">o</hi><hi rend="italic"> in.</hi></note>
+ <note type="tnote" n="69">2488<space rend="indent1"/><hi rend="italic">also</hi>. So MS, C. R omits.</note>
+ <note type="tnote" n="70">2489<space rend="indent1"/><hi rend="italic">it</hi>. So MS. C, R omit.</note>
+ <note type="tnote" n="71">2491<space rend="indent1"/><hi rend="italic">A fallary, a shafte is of the same</hi>. This line is mistakenly written at the end of the stanza in R. See the <ref target="insert-internal-link" type="internal">Introduction, pp. 12–13</ref>.</note>
+ <note type="tnote" n="72">2492<space rend="indent1"/><hi rend="italic">Thorgh</hi>. So MS, C. R: <hi rend="italicstrikethrough">A fallery</hi><hi rend="italic"> Throwe</hi> (<hi rend="italic">Throwe</hi> inserted above the line).</note>
+ <note type="tnote" n="73">2494<space rend="indent1"/><hi rend="italic">this</hi>. So MS, C. R: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="74">2506<space rend="indent1"/><hi rend="italic">ther</hi>. So MS, C. R omits.</note>
+ <note type="tnote" n="75">2511<space rend="indent1"/><hi rend="italic">ye</hi>. So MS, C. R: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="76">2514<space rend="indent1"/><hi rend="italic">throgh</hi>. So MS. C: <hi rend="italic">thorgh</hi> (<hi rend="italic">r</hi> inserted above the line). R: <hi rend="italic">thorrogh</hi>.</note>
+ <note type="tnote" n="77">2517<space rend="indent1"/><hi rend="italic">sleth</hi>. So MS, C. R: <hi rend="italic">fleeth</hi>.</note>
+ <note type="tnote" n="78">2518<space rend="indent1"/><hi rend="italic">concavitee</hi>. So MS, C. R: <hi rend="italicstrikethrough">conv</hi><hi rend="italic"> concavite</hi>.</note>
+ <note type="tnote" n="79">2519<space rend="indent1"/><hi rend="italic">whelis</hi>. So MS (added in margin at end of the line in darker ink), R. C: <hi rend="italic">wheelys</hi>.</note>
+ <note type="tnote" n="80">2520<space rend="indent1"/><hi rend="italic">goth</hi>. So MS, C. R: <hi rend="italicstrikethrough">goth</hi><hi rend="italic"> goth</hi>.</note>
+ <note type="tnote" n="81">2522<space rend="indent1"/><hi rend="italic">dolour</hi>. So MS, C. R: <hi rend="italicstrikethrough">dolur</hi><hi rend="italic"> dolour.</hi></note>
+ <note type="tnote" n="82">2528<space rend="indent1"/><hi rend="italic">thei</hi>. So MS. C: <hi rend="italic">they</hi>. R omits.</note>
+ <note type="tnote" n="83">2535<space rend="indent1"/><hi rend="italic">adoun</hi>. So MS, C. R omits.</note>
+ <note type="tnote" n="84">2538<space rend="indent1"/><hi rend="italic">other</hi>. So MS, C. R: <hi rend="italic">ther</hi>.</note>
+ <note type="tnote" n="85">2551<space rend="indent1"/><hi rend="italic">or</hi>. So MS, C. R: <hi rend="italic">and</hi>.</note>
+ <note type="tnote" n="86"><space rend="indent1"/><hi rend="italic">onys</hi>. So MS. C: <hi rend="italic">ony</hi>. R: <hi rend="italic">any</hi>.</note>
+ <note type="tnote" n="87">2557<space rend="indent1"/><hi rend="italic">Or</hi>. So MS, C. R: <hi rend="italicstrikethrough">Oa</hi>(?) <hi rend="italic">Or</hi>.</note>
+ <note type="tnote" n="88">2565<space rend="indent1"/><hi rend="italic">out</hi>. So MS. C: <hi rend="italic">oute</hi>. R omits.</note>
+ <note type="tnote" n="89">2570<space rend="indent1"/><hi rend="italic">thenne</hi>. So MS. C: <hi rend="italic">then</hi>. R omits.</note>
+ <note type="tnote" n="90">2571<space rend="indent1"/><hi rend="italic">we</hi>. So MS, C. R: <hi rend="italic">we we</hi> (uncancelled dittography).</note>
+ <note type="tnote" n="91">2572<space rend="indent1"/><hi rend="italic">Aslepe</hi>. So MS. C: <hi rend="italic">Asleep</hi>. R: <hi rend="italicstrikethrough">Asl</hi><hi rend="italic"> Aslepe</hi>.</note>
+ <note type="tnote" n="92">2576<space rend="indent1"/><hi rend="italic">everychon</hi>. MS: <hi rend="italic">everychon</hi><hi rend="italicstrikethrough">e</hi>. C, R: <hi rend="italic">everychone</hi>.</note>
+ <note type="tnote" n="93">2469–2580<space rend="indent1"/><hi rend="italic">Present perile . . . foo bewere</hi>. Omitted in A (lost leaves).</note>
+ <note type="tnote" n="94">2583<space rend="indent1"/><hi rend="italic">postis</hi>. So MS, A, R. C: <hi rend="italicstrikethrough">b</hi><hi rend="italic"> postis</hi>.</note>
+ <note type="tnote" n="95">2585<space rend="indent1"/><hi rend="italic">wel</hi>. So MS, C, A, D&amp;A. R: <hi rend="italic">wele</hi>.</note>
+ <note type="tnote" n="96">2596<space rend="indent1"/><hi rend="italic">wise</hi>. So MS, C, A. R: <hi rend="italic">good</hi>.</note>
+ <note type="tnote" n="97">2598<space rend="indent1"/><hi rend="italic">wake</hi>. So MS, C. A, R: <hi rend="italic">make</hi>.</note>
+ <note type="tnote" n="98">2608<space rend="indent1"/><hi rend="italic">on other</hi>. So MS, C, A. R: <hi rend="italic">other</hi>. D&amp;A: <hi rend="italic">an other</hi>.</note>
+ <note type="tnote" n="99">2617<space rend="indent1"/><hi rend="italic">Good</hi><hi rend="subscript">1</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light.</note>
+ <note type="tnote" n="100">2618<space rend="indent1"/><hi rend="italic">But</hi>. So C, A, D&amp;A. MS: fully legible only under UV light. </note>
+ <note type="tnote" n="101">2619<space rend="indent1"/><hi rend="italic">stuf</hi>. So MS. C: <hi rend="italic">stufe</hi>. A, D&amp;A: <hi rend="italic">stuffe</hi>.</note>
+ <note type="tnote" n="102">2622<space rend="indent1"/><hi rend="italic">the</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light. </note>
+ <note type="tnote" n="103">2625<space rend="indent1"/><hi rend="italic">good</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light. </note>
+ <note type="tnote" n="104">2626<space rend="indent1"/><hi rend="italic">nayles . . . bras</hi>. So D&amp;A. MS: fully legible only under UV light. C: <hi rend="italic">naylis . . . bras</hi>. A: <hi rend="italic">nailis . . . bras</hi>. R: <hi rend="italic">nailles . . . bras</hi>.</note>
+ <note type="tnote" n="105">2628<space rend="indent1"/><hi rend="italic">kanker</hi>. So D&amp;A. MS: fully legible only under UV light. C, A, R: <hi rend="italic">canker</hi>.</note>
+ <note type="tnote" n="106">2634<space rend="indent1"/><hi rend="italic">pith</hi>. So C, A, R, D&amp;A. MS: <hi rend="italic">p.th</hi> partially legible only under UV light.</note>
+ <note type="tnote" n="107">2635<space rend="indent1"/><hi rend="italic">XV</hi>. So MS, C, A. R: <hi rend="italic">How</hi>.</note>
+ <note type="tnote" n="108">2653<space rend="indent1"/><hi rend="italic">myghtier</hi>. So MS, C, A, R. D&amp;A: <hi rend="italic">mightier</hi>.</note>
+ <note type="tnote" n="109">2655<space rend="indent1"/><hi rend="italic">sturne</hi>. MS: <hi rend="italic">s . . . ne</hi> partially legible only under UV light. C, A, D&amp;A: <hi rend="italic">storne</hi>. R: <hi rend="italic">sterne</hi>.</note>
+ <note type="tnote" n="110">2657<space rend="indent1"/><hi rend="italic">the</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="111"><space rend="indent1"/><hi rend="italic">or</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light.</note>
+ <note type="tnote" n="112">2661<space rend="indent1"/><hi rend="italic">that not</hi>. So MS, C, A. R: <hi rend="italic">that</hi>. D&amp;A: <hi rend="italic">thei not</hi>.</note>
+ <note type="tnote" n="113">2662<space rend="indent1"/><hi rend="italic">victory</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light. </note>
+ <note type="tnote" n="114">2663<space rend="indent1"/><hi rend="italic">marynere</hi>. So D&amp;A. MS: <hi rend="italic">ma.ynere</hi> partially legible only under UV light. C, A: <hi rend="italic">maryneer</hi>. R: <hi rend="italic">mariner</hi>.</note>
+ <note type="tnote" n="115">2664<space rend="indent1"/><hi rend="italic">unnapere</hi>. So MS, C. A: <hi rend="italic">unnapeer</hi>. R: <hi rend="italic">unrape</hi>.</note>
+ <note type="tnote" n="116">2669<space rend="indent1"/><hi rend="italic">arowe</hi>. So MS, C, R. A: <hi rend="italicstrikethrough">abowe</hi><hi rend="italic"> arowe</hi>.</note>
+ <note type="tnote" n="117">2671<space rend="indent1"/><hi rend="italic">thei amonge</hi>. So MS. C, A: <hi rend="italic">they among</hi>. R: <hi rend="italic">among they</hi>.</note>
+ <note type="tnote" n="118">2673<space rend="indent1"/><hi rend="italic">Sir</hi>. So C, A, R. MS: inserted above the line.</note>
+ <note type="tnote" n="119">2674<space rend="indent1"/><hi rend="italic">tan</hi>. So MS, R. C omits. A: inserted in the line.</note>
+ <note type="tnote" n="120">2676<space rend="indent1"/><hi rend="italic">of the North</hi>. So C, A, R, D&amp;A. MS: <hi rend="italic">of North</hi>.</note>
+ <note type="tnote" n="121">2681<space rend="indent1"/><hi rend="italic">lifte</hi>. C, A: <hi rend="italic">lefte</hi>. R: <hi rend="italic">left</hi>. D&amp;A: <hi rend="italic">lift</hi>. MS: <hi rend="italic">right</hi>.</note>
+ <note type="tnote" n="122">2683<space rend="indent1"/><hi rend="italic">the . . . when</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light.</note>
+ <note type="tnote" n="123">2687<space rend="indent1"/><hi rend="italic">of</hi>. So MS, C, A. R: <hi rend="italic">that</hi>.</note>
+ <note type="tnote" n="124"><space rend="indent1"/><hi rend="italic">nature</hi>. So MS, C. A: <hi rend="italic">natur</hi>. D&amp;A: <hi rend="italic">nater</hi>.</note>
+ <note type="tnote" n="125"><space rend="indent1"/><hi rend="italic">tranquylle</hi>. So MS. C, A: <hi rend="italic">tranquille</hi>. R:<hi rend="italic"> </hi><hi rend="italicstrikethrough">a</hi><hi rend="italic"> tranquille</hi>.</note>
+ <note type="tnote" n="126">2688<space rend="indent1"/><hi rend="italic">lene</hi>. So MS, A, R. C: <hi rend="italicstrikethrough">l leve</hi><hi rend="italic"> </hi>with <hi rend="italic">lene</hi> inserted above the line.</note>
+ <note type="tnote" n="127">2689<space rend="indent1"/><hi rend="italic">al</hi>. So MS. C: inserted above the line. A, R: <hi rend="italic">all</hi>.</note>
+ <note type="tnote" n="128">2690<space rend="indent1"/><hi rend="italic">rore</hi>. So C, A, R. MS: fully legible only under UV light. D&amp;A: <hi rend="italic">ror</hi>.</note>
+ <note type="tnote" n="129">2691<space rend="indent1"/><hi rend="italic">this</hi>. So MS. C: <hi rend="italic">is</hi>. A: <hi rend="italicstrikethrough">is</hi> with <hi rend="italic">this</hi> inserted above the line. R: <hi rend="italic">is thus</hi>(?).</note>
+ <note type="tnote" n="130">2692<space rend="indent1"/><hi rend="italic">me</hi>. So C, A, R. MS: inserted above the line.</note>
+ <note type="tnote" n="131"><space rend="indent1"/><hi rend="italic">hert it</hi>. So MS, A. C: <hi rend="italicstrikethrough">her</hi><hi rend="italic"> hert it</hi>. R: <hi rend="italic">hert it</hi><hi rend="italic"> it</hi>.</note>
+ <note type="tnote" n="132">2699<space rend="indent1"/><hi rend="italic">Husht</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">Hushe</hi><hi rend="italic"> Hush</hi>.</note>
+ <note type="tnote" n="133">2704<space rend="indent1"/><hi rend="italic">in</hi>. So C, A, R. MS: inserted above the line.</note>
+ <note type="tnote" n="134">2709<space rend="indent1"/><hi rend="italic">affrays</hi>. So MS, C. A: <hi rend="italic">affrayis</hi>. R: <hi rend="italic">affrais</hi>. D&amp;A: <hi rend="italic">affrayes</hi>.</note>
+ <note type="tnote" n="135">2712<space rend="indent1"/><hi rend="italic">intractabil</hi>. So MS, C, A. R: <hi rend="italic">intraitabill</hi>. D&amp;A claim MS reading is <hi rend="italic">mutabil</hi> (p. 99n2712).</note>
+ <note type="tnote" n="136">2717<space rend="indent1"/><hi rend="italic">noo</hi>. So MS. C, A, R, D&amp;A: <hi rend="italic">no</hi>.</note>
+ <note type="tnote" n="137">2720<space rend="indent1"/><hi rend="italic">plesaunt</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="138">2722<space rend="indent1"/><hi rend="italic">Ide</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">Id</hi><hi rend="italic"> Ide</hi>.</note>
+ <note type="tnote" n="139">2724<space rend="indent1"/><hi rend="italic">remembre</hi>. So MS. C: <hi rend="italicstrikethrough">re</hi><hi rend="italic"> remembye</hi>. A, R: <hi rend="italic">remembr</hi>.</note>
+ <note type="tnote" n="140">2726<space rend="indent1"/><hi rend="italic">meanewhile</hi>. So MS. C, A: <hi rend="italic">meanwhile</hi>. R: <hi rend="italicstrikethrough">whill</hi><hi rend="italic"> meaynwhill</hi>.</note>
+ <note type="tnote" n="141">2730<space rend="indent1"/><hi rend="italic">see</hi>. So MS, C, A. R: <hi rend="italic">the see</hi>.</note>
+ <note type="tnote" n="142">2733<space rend="indent1"/><hi rend="italic">or ride</hi>. So MS, C. A: <hi rend="italicstrikethrough">and</hi><hi rend="italic"> or ride</hi> (<hi rend="italic">or</hi> inserted above the line). R: <hi rend="italic">nor ride</hi>.</note>
+ <note type="tnote" n="143">2734<space rend="indent1"/><hi rend="italic">a</hi>. So MS, C. A: inserted above the line. R omits.</note>
+ <note type="tnote" n="144">2735<space rend="indent1"/><hi rend="italic">is</hi><hi rend="subscript">2</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="145">2739<space rend="indent1"/><hi rend="italic">o londe</hi>. So MS, C, A. R: <hi rend="italic">to long</hi>.</note>
+ <note type="tnote" n="146">2740<space rend="indent1"/><hi rend="italic">leyt</hi>. So MS, C. A: <hi rend="italic">leit</hi>. R: <hi rend="italic">slet</hi>.</note>
+ <note type="tnote" n="147">2741<space rend="indent1"/><hi rend="italic">goth</hi>. So MS. C omits. A: inserted above the line. R: <hi rend="italic">gooth</hi>.</note>
+ <note type="tnote" n="148">2744<space rend="indent1"/><hi rend="italic">sollennytee</hi>. So MS. C, A: <hi rend="italic">solempnytee</hi>. R: <hi rend="italic">solempnyte</hi>. D&amp;A: <hi rend="italic">sollemnytee</hi>.</note>
+ <note type="tnote" n="149">2745<space rend="indent1"/><hi rend="italic">used</hi>. So MS, C. A: <hi rend="italic">usid</hi>. R omits.</note>
+ <note type="tnote" n="150">2746<space rend="indent1"/><hi rend="italic">arte</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light.</note>
+ <note type="tnote" n="151">2753<space rend="indent1"/><hi rend="italic">is</hi>. So MS, C, A. R:<hi rend="italic"> it is</hi>.</note>
+ <note type="tnote" n="152">2763<space rend="indent1"/><hi rend="italic">His bright arisith</hi>. MS: written over an erasure in a darker ink. C, A: <hi rend="italic">his bright arisich</hi>. R: <hi rend="italic">his bright arise</hi>. D&amp;A: <hi rend="italic">his bright aristh</hi>.</note>
+ <note type="tnote" n="153"><space rend="indent1"/><hi rend="italic">mery</hi>. So MS, A. C: <hi rend="italicstrikethrough">mey</hi><hi rend="italic"> mery</hi>. R: <hi rend="italic">meri</hi>.</note>
+ <note type="tnote" n="154">2766<space rend="indent1"/><hi rend="italic">or ellis snowe</hi>. So C, A, D&amp;A. R: <hi rend="italic">or els snow</hi>. MS: <hi rend="italic">or ellisnowe</hi>.</note>
+ <note type="tnote" n="155">2768<space rend="indent1"/><hi rend="italic">ayer</hi>. So MS, C, A. R: <hi rend="italic">rayne</hi>.</note>
+ <note type="tnote" n="156">2787<space rend="indent1"/><hi rend="italic">been</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="157">2790<space rend="indent1"/><hi rend="italic">wil</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="158">2822<space rend="indent1"/><hi rend="italic">ye</hi>. So MS, C, A. R: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="159">2827<space rend="indent1"/><hi rend="italic">on</hi>. So MS, R. C: <hi rend="italic">ion</hi>(?). A: <hi rend="italic">ion</hi> (<hi rend="italic">i</hi> erased).</note>
+ <note type="tnote" n="160">2829<space rend="indent1"/><hi rend="italic">a</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="161">2836<space rend="indent1"/><hi rend="italic">Ye</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="162">2844<space rend="indent1"/><hi rend="italic">ye</hi>. So MS, C, A. R: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="163">2856<space rend="indent1"/><hi rend="italic">other</hi>. So MS, C, A. R: <hi rend="italic">over</hi>.</note>
+ <note type="tnote" n="164">2861<space rend="indent1"/><hi rend="italic">the</hi><hi rend="subscript">2</hi>. So MS. C: <hi rend="italic">te</hi>. A: <hi rend="italic">to</hi>. R omits.</note>
+ <note type="tnote" n="165">2878<space rend="indent1"/><hi rend="italic">undir</hi>. So MS, A. C: <hi rend="italic">under</hi>. R: <hi rend="italic">in the</hi>.</note>
+ <note type="tnote" n="166"><hi rend="bold">2880</hi><space rend="indent1"/><hi rend="italic">Harry</hi>. So MS, D&amp;A. C, A: <hi rend="italic">Edward</hi>. R: <hi rend="italic">Edwarde</hi>.</note>
+ <note type="tnote" n="167">2894<space rend="indent1"/><hi rend="italic">it is</hi>. So MS, C, A. R: <hi rend="italic">is it</hi>.</note>
+ <note type="tnote" n="168">2898<space rend="indent1"/><hi rend="italic">bleede</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">brel</hi><hi rend="italic"> bleed</hi>.</note>
+ <note type="tnote" n="169">2901<space rend="indent1"/><hi rend="italic">Mischefe</hi>. So MS. C: <hi rend="italic">Myschief</hi>. A: <hi rend="italic">Mischeef</hi>. R: <hi rend="italic">Myscheef</hi>. D&amp;A: <hi rend="italic">Myschefe</hi>.</note>
+ <note type="tnote" n="170">2902<space rend="indent1"/><hi rend="italic">betrapped</hi>. So MS, C. A: <hi rend="italic">betrappid</hi>. R: <hi rend="italic">betrayed</hi>.</note>
+ <note type="tnote" n="171">2909<space rend="indent1"/><hi rend="italic">Where</hi>. So MS. C, A, R: <hi rend="italic">Her</hi>.</note>
+ <note type="tnote" n="172"><space rend="indent1"/><hi rend="italic">renoun</hi>. So MS, A. C: <hi rend="italicstrikethrough">re</hi><hi rend="italic"> renoun</hi>. R: <hi rend="italic">renoune</hi>.</note>
+ <note type="tnote" n="173">2910<space rend="indent1"/><hi rend="italic">forseyn</hi>. So MS. C: <hi rend="italic">forseyne</hi>. A: <hi rend="italic">forsaine</hi>. R: <hi rend="italic">for fame</hi>.</note>
+ <note type="tnote" n="174">2912<space rend="indent1"/><hi rend="italic">forwith</hi>. So MS, C. A: <hi rend="italic">forthwith</hi>. R: <hi rend="italic">furthwith</hi>.</note>
+ <note type="tnote" n="175">2913<space rend="indent1"/><hi rend="italic">Sleuth</hi>. So MS. C, A: <hi rend="italic">Sleught</hi>. R: <hi rend="italic">Slouth</hi>.</note>
+ <note type="tnote" n="176">2915<space rend="indent1"/><hi rend="italic">Although</hi>. So MS, A. C: <hi rend="italic">As though</hi>. R: <hi rend="italic">Allthough</hi>.</note>
+ <note type="tnote" n="177">2916<space rend="indent1"/><hi rend="italic">th’</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="178">2925<space rend="indent1"/><hi rend="italic">to make</hi>. So MS, R. C omits. A: inserted above the line.</note>
+ <note type="tnote" n="179">2927<space rend="indent1"/><hi rend="italic">That</hi>. So C, A, R. MS: first letter written over an erasure.</note>
+ <note type="tnote" n="180">2930<space rend="indent1"/><hi rend="italic">either</hi>. So MS, C, A. R: <hi rend="italic">ever</hi>.</note>
+ <note type="tnote" n="181">2938<space rend="indent1"/><hi rend="italic">kene is</hi>. So MS. C, A, R: <hi rend="italic">is kene</hi>.</note>
+ <note type="tnote" n="182">2956<space rend="indent1"/><hi rend="italic">forlete</hi>. So MS, C, A. R: <hi rend="italic">forto let</hi>.</note>
+ <note type="tnote" n="183">2958<space rend="indent1"/><hi rend="italic">to strynge</hi>. So MS, C. A: <hi rend="italic">to stringe</hi>. R:<hi rend="italic"> </hi><hi rend="italicstrikethrough">to st</hi><hi rend="italic"> to stryng</hi>.</note>
+ <note type="tnote" n="184">2960<space rend="indent1"/><hi rend="italic">with</hi><hi rend="subscript">2</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="185">2962<space rend="indent1"/><hi rend="italic">her</hi>. So C, A, R, D&amp;A. MS: <hi rend="italic">h . . . </hi>partially legible only under UV light.</note>
+ <note type="tnote" n="186">2963<space rend="indent1"/><hi rend="italic">yon</hi>. So C, A. MS:<hi rend="italic"> </hi><hi rend="italic">. . . on</hi> partially legible only under UV light. R: <hi rend="italic">yow</hi>. D&amp;A: <hi rend="italic">[yon]</hi>.</note>
+ <note type="tnote" n="187">2967<space rend="indent1"/><hi rend="italic">were</hi>. So C, D&amp;A. MS: <hi rend="italic">w . . . e</hi> partially legible only under UV light. A: <hi rend="italic">wer</hi>. R: <hi rend="italic">wher</hi>.</note>
+ <note type="tnote" n="188">2968<space rend="indent1"/><hi rend="italic">then</hi>. So C, A, R, D&amp;A. MS: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="189">2969<space rend="indent1"/><hi rend="italic">nerf . . . stringis</hi>. So R. MS: fully legible only under UV light. C: <hi rend="italic">nerf . . . stryngys</hi>. A: <hi rend="italic">nerf . . . strengis</hi>. D&amp;A: <hi rend="italic">nerf . . . stringes</hi>.</note>
+ <note type="tnote" n="190">2970<space rend="indent1"/><hi rend="italic">made herte</hi>. So C, A, D&amp;A. MS: fully legible only under UV light. R: <hi rend="italic">mad hert</hi>.</note>
+ <note type="tnote" n="191">2975<space rend="indent1"/><hi rend="italic">is</hi>. So MS, A, R. C: <hi rend="italic">to is</hi>.</note>
+ <note type="tnote" n="192">2976<space rend="indent1"/><hi rend="italic">ye</hi>. So MS, C, A. R: <hi rend="italic">the</hi>.</note>
+ <note type="tnote" n="193"><space rend="indent1"/><hi rend="italic">a point</hi>. So MS, A. C: <hi rend="italic">a poynt</hi>. R omits.</note>
+ <note type="tnote" n="194">2977<space rend="indent1"/><hi rend="italic">myn</hi>. So MS, C, A. R: changed to <hi rend="italic">mayd</hi>.</note>
+ <note type="tnote" n="195">2978<space rend="indent1"/><hi rend="italic">me</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="196">2979<space rend="indent1"/><hi rend="italic">am I</hi>. So MS, C, A. R: <hi rend="italic">I am</hi>.</note>
+ <note type="tnote" n="197">2981<space rend="indent1"/><hi rend="italic">faynest</hi>. So MS. C, A, R: <hi rend="italic">fayne</hi>.</note>
+ <note type="tnote" n="198"><space rend="indent1"/><hi rend="italic">londe</hi>. So MS. C, A: <hi rend="italic">o londe</hi>. R: <hi rend="italic">on land</hi>.</note>
+ <note type="tnote" n="199">2982<space rend="indent1"/><hi rend="italic">Joon</hi>. MS, C, A, R: <hi rend="italic">Ioo</hi>. D&amp;A:<hi rend="italic"> I [—] oo</hi>.</note>
+ <note type="tnote" n="200"><hi rend="bold">2983</hi><space rend="indent1"/><hi rend="italic">wrong</hi>. So MS, D&amp;A. C: <hi rend="italic">werk</hi>. A, R: <hi rend="italic">werke</hi>.</note>
+ <note type="tnote" n="201"><hi rend="bold">2984</hi><space rend="indent1"/><hi rend="italic">wil I not to</hi>. So MS, D&amp;A. C, A: <hi rend="italic">dar to right go</hi>. R: <hi rend="italic">dare to right go</hi>.</note>
+ <note type="tnote" n="202"><hi rend="bold">2985</hi><space rend="indent1"/><hi rend="italic">litil heer to</hi>. So MS, D&amp;A. C, A, R: <hi rend="italic">lite in errour</hi>.</note>
+ <note type="tnote" n="203"><hi rend="bold">2988</hi><space rend="indent1"/><hi rend="italic">that ayer</hi>. So MS, D&amp;A. C: <hi rend="italic">ayer</hi>. A: <hi rend="italic">this ayer</hi> (<hi rend="italic">this</hi> inserted above the line). R: <hi rend="italic">this ner</hi>.</note>
+ <note type="tnote" n="204">2991<space rend="indent1"/><hi rend="italic">way</hi>. So C, A, D&amp;A. MS: fully legible only under UV light. R: <hi rend="italic">wey</hi>. </note>
+ <note type="tnote" n="205">2992<space rend="indent1"/><hi rend="italic">th’electioun</hi>. So C, A, R, D&amp;A. MS: fully legible only under UV light. </note>
+ <note type="tnote" n="206">3018<space rend="indent1"/><hi rend="italic">hemself</hi>. So C, A. MS: fully legible only under UV light. R: <hi rend="italic">hemselfe</hi>. D&amp;A: <hi rend="italic">hemself</hi>.</note>
+ <note type="tnote" n="207">3021<space rend="indent1"/><hi rend="italic">werk</hi>. So MS, C. A: <hi rend="italic">werke</hi>. R: <hi rend="italic">ware</hi>.</note>
+ <note type="tnote" n="208">3024<space rend="indent1"/><hi rend="italic">impropur speche</hi>. So MS, C. A: <hi rend="italic">impropur spech</hi>. R: <hi rend="italic">inpropure </hi><hi rend="italicstrikethrough">spes</hi><hi rend="italic"> speche</hi>. D&amp;A: <hi rend="italic">impropir speche</hi>.</note>
+ <note type="tnote" n="209">3025<space rend="indent1"/><hi rend="italic">amende</hi>. So MS. C, A, R: <hi rend="italic">tamende</hi>.</note>
+ <note type="tnote" n="210">3026<space rend="indent1"/><hi rend="italic">to</hi>. So MS, C, A. R omits.</note>
+ <note type="tnote" n="211">3027<space rend="indent1"/><hi rend="italic">ortographie</hi>. So MS, C, A. R: <hi rend="italicstrikethrough">ortogar</hi><hi rend="italic"> ortographie</hi>.</note>
+ <note type="tnote" n="212">after 3028<space rend="indent1"/><hi rend="italic">Finis</hi>. So MS. C, A, R omit.</note>
+ </div></body></text></TEI>

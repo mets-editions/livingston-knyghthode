@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Livingston-Knyghthode-20-App-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Appendix: Concordance to Latin Vegetius</title><author>Smith, Trevor Russell</author><author>Livingston, Michael</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Bowen, Mead</persName><resp from="2020-10" to="2020-11">Copyedited and proofread</resp><resp from="2019-06" to="2019-08">Ensured adherence to METS Style Guide</resp><resp from="2019-06" to="2020-11">Entered corrections for print edition</resp><resp from="2020-10" to="2020-11">Formatted for print edition</resp><resp from="2020-10" to="2020-11">Formatted for XML export</resp></respStmt><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2020-03" to="2020-03">Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp from="2022-02" to="2023-04">Entered corrections for digital edition</resp><resp from="2020-03" to="2023-04">Entered corrections for print edition</resp><resp from="2020-03" to="2020-03">Formatted for print edition</resp><resp from="2020-03" to="2020-03">Formatted for XML export</resp><resp>Updated TEI encoding</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp>Audited documents prior to print/export</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-06" to="2023-08">Entered corrections for digital edition</resp><resp from="2022-06" to="2023-08">Entered corrections for print edition</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2020-03" to="2020-03">Copyedited and proofread</resp><resp from="2020-03" to="2020-03">Ensured adherence to METS Style Guide</resp><resp from="2020-03" to="2020-03">Reviewed edition for consistency and audience</resp><resp from="2020-03" to="2020-03">Reviewed edition for content and scholarship</resp><resp from="2020-03" to="2020-03">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2023-11" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2020-03" to="2020-04">Copyedited and proofread</resp><resp from="2020-03" to="2020-04">Ensured adherence to METS Style Guide</resp><resp from="2020-03" to="2020-04">Reviewed edition for consistency and audience</resp><resp from="2020-03" to="2020-04">Reviewed edition for content and scholarship</resp><resp from="2020-03" to="2020-04">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2023-09" to="2024-01">Audited documents prior to print/export</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2020-06" to="2020-08">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2020-06" to="2020-08">Copyedited and proofread</resp><resp from="2020-06" to="2020-08">Ensured adherence to METS Style Guide</resp><resp from="2020-06" to="2020-08">Reviewed edition for consistency and audience</resp><resp from="2020-06" to="2020-08">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mario Bisciotti</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Sue Gleason</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Andrea Noto</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Techincal Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Caleb Prus</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Assistant Editor, Editorial Board</resp></respStmt><respStmt><persName>Alexander J. Zawacki</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Unknown</author><editor>Smith, Trevor Russell</editor><editor>Livingston, Michael</editor><title>Of Knyghthode and Bataile</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2021</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/livingston-knyghthode/blob/main/livingston-knyghthode-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Livingston-Knyghthode-20-App"/><div type="text">
+ <p style="appendix-headnote1">To aid the reader wishing to compare the text of <hi rend="italic">Knyghthode and Bataile</hi> with the original Latin text of Vegetius’s <hi rend="italic">De re militari</hi> (or any of its other vernacular translations or paraphrases), we have noted the general section number in Vegetius, where applicable, into our editorial subheadings within the edition that follows.As a reference text for Vegetius (and thus of the section numbers and sentence breakdowns in what follows), we have utilized Reeve’s edition of the Latin text, not the widely read English translation by Milner. A more specific concordance is provided here, where the line numbers of <hi rend="italic">Knyghthode and Bataile</hi> (left of each column) are given their corresponding section numbers in Vegetius (right). Indented and italicized line numbers break down correspondences within a larger sction of the text. In what follows:</p>
+ <p style="body">~ <space rend="indent1"/>indicates a loose paraphrase</p>
+ <p style="body"><hi rend="bold">—</hi> <space rend="indent1"/>indicates there is no correspondence to the line(s) within Vegetius</p>
+ <table style="basictable">
+ 
+ 
+ 
+ 
+ 
+ <row>
+ <cell>
+ <p style="horizontal-center"><hi rend="boldsmallcaps">Proem</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1-88</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center"><hi rend="boldsmallcaps">Part I</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">89-92</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.prol. first sentence only</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">91</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">93-165</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">166-72</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ Synopsis</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">173-82</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.2</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">177</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">183-200</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.3</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">201-21</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.4</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">222-28</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.5</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">229-51</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.6</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">252-91</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.7</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">292-319</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.8</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">320-40</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.9</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">341-47</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">348-75</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.11</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">349-52</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">376-96</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.12</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">397-417</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.13</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">418-31</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.14</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">432-52</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.15</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">442-43</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">447</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">453-66</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.16</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">467-73</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.17</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">474-80</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.18</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">481-87</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.19</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">488-93</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.14</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">494</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.20 final sentence only</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">495-501</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.21</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">502-15</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.22</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">516-29</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.23</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">530-50</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.24</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">551-64</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.25</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">565-92</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.26</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">593-613</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">1.27</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">614-20</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">- (1.28 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center"><hi rend="boldsmallcaps">Part II</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">621-41</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">- (2.prol. omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">624-25</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.4 penultimate sentence only</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">642-69</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">656</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">670-76</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.2 first four sentences only</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">677-79</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.4 first sentence only (2.3 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">680-705</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.5</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">706-53</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.6</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">754-802</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.7</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">803-51</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.8</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">852-879</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.9</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">880-93</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">894-907</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.11</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">908-21</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.12</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">922-35</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.13</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">936-77</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.14 (2.15-2.25 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center"><hi rend="boldsmallcaps">Part III</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">978-1026</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">- (3.prol. omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1027-82</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1048-52</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">2.2</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1083-1110</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.2</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1111-73</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.3</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1174-1250</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.4</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1179-80</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1203-07</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1251-1306</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.5</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1276-78</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1307-1446</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.6</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1439</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1442</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1447-81</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.7</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1466-67</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1482-1579</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.8</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1486-88</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1499-1500</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1576</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1580-1619</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.9</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1586</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1593</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1598</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1616</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1620-21</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1622-1705</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1656</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1668-70</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1681-84</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1692</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1706-32</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.11</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1733</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1734-54</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.12</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1752</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1755-61</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.13</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1762-1864</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.14</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1787</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1820</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1849-52</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1859</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1865-66</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1867-1901</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.15</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1887</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1902-22</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.16</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1923-51</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.17</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1938-39</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1944-50</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1952-99</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.18</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1967</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">1996</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2000-06</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.19</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2007-45</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2046-2132</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.2</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2076</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2078</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2133-60</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ 3.21, 3.22, 3.25 (3.23-3.24 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2158</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2161-2216</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">3.26</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2164-67</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2217-2223</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center"><hi rend="boldsmallcaps">Part IV</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2224-44</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">- (4.prol. omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2245-58</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2259-65</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.2</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2266-79</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.3</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2280-86</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.4</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2287-93</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.5</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2294-99</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.6</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2300</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2301-14</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.7</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2315-35</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.8</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2336-45</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.9</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2346-56</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.1</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2357-63</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.11</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2364-70</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.12</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2371-77</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.13</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2378-2401</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.14</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2402-26</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.23</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2427-47</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.15</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2436-40</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2443</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2448-56</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.16</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2449</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2457-82</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.17</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2458</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2468</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2471</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2475</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2478</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2483-2503</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.18</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2504-10</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.19</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2511-20</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.2</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2513</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2521-24</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2525-38</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.21</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2539-41</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.22 first sentence only</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2542-52</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2553-87</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.24, 4.25</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2564</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2571-73</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2588-2601</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.26</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2602-07</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.28 (4.27 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2608</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.27, 4.28 referred to</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2609-11</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.30/4.31 interchapter synopsis</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2612-15</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.31 first sentence only</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2616-29</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.34 (4.32, 4.33 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2625</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2630-50</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.35, 4.36</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2651-64</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.37</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2665-2706</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.38</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2671</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2691-92</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2707-48</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.39</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2749-73</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.41 (4.40 omitted)</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2753</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2767</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2774-88</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.42</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2789-90</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2791-2811</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.43</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2793-94</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2800-01</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2812-34</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">4.45</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2835-2909</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ 4.44, 4.46</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2910-27</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2928-51</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ 4.46</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2935</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2937</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2941</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2946-48</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2952-54</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ 4.22</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2955-62</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ 4.9</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2963-65</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2966-72</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">~ 2.25, 3.24, 4.22</p>
+ </cell>
+ </row>
+ <row>
+ <cell>
+ <p style="horizontal-center">2973-3028</p>
+ </cell>
+ <cell>
+ <p style="horizontal-center">-</p>
+ </cell>
+ </row>
+ 
+ </table>
+ </div></body></text></TEI>
