@@ -2,7 +2,7 @@
 
 This repository is for the edition _Of Knyghthode and Bataile_, edited by Trevor Russell Smith and Michael Livingston. It contains:
 
-- TEI-XML files of the digital edition. Last file updated: 10/02/2024
+- TEI-XML files of the digital edition. Last file updated: 01/13/2025
 
 - A PDF of the entire edition. Current version: 09/25/2024
 
